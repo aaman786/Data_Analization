@@ -1,0 +1,16 @@
+*** Data Analization****
+	Numpy and Pandas Are used for data Analization.
+Cnt1. Contains General introduction about Data Science.
+Cnt2. Introduction to Numpy And its function.
+Cnt3. Numpy more functions.
+Cnt4. Array operations using Numpy.
+Cnt5. Array More functions like Numpy argsort, argmin, Argmax and other tips.
+Cnt6. Introduction to Pandas and some codes. Difference Between Numpy and python.
+Cnt7. Slicing And Adding Column to Data frame using Pandas.
+Cnt8. Reading the CSV(sheet) and its functions Using pandas.
+Cnt9. Writing a CSV(sheet) file Using Pandas and Functions.
+Cnt10. Merging Dataframes using pandas
+Cnt11. Introduction to json and its Functions
+and rules.
+Cnt12. Introduction to Matplotlib and Functions.
+for plotting Single data and double and also chnging the style of plotting.
